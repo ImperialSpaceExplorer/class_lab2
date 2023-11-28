@@ -1,0 +1,13 @@
+C:\Users\Антон\Desktop\Projects\classlab3\classlab3\bin\Debug\classlab3.exe.config
+C:\Users\Антон\Desktop\Projects\classlab3\classlab3\bin\Debug\classlab3.exe
+C:\Users\Антон\Desktop\Projects\classlab3\classlab3\bin\Debug\classlab3.pdb
+C:\Users\Антон\Desktop\Projects\classlab3\classlab3\obj\Debug\classlab3.csprojAssemblyReference.cache
+C:\Users\Антон\Desktop\Projects\classlab3\classlab3\obj\Debug\classlab3.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Projects\classlab3\classlab3\obj\Debug\classlab3.exe
+C:\Users\Антон\Desktop\Projects\classlab3\classlab3\obj\Debug\classlab3.pdb
+C:\Users\Человек\Desktop\project\classlab3\classlab3\bin\Debug\classlab3.exe.config
+C:\Users\Человек\Desktop\project\classlab3\classlab3\bin\Debug\classlab3.exe
+C:\Users\Человек\Desktop\project\classlab3\classlab3\bin\Debug\classlab3.pdb
+C:\Users\Человек\Desktop\project\classlab3\classlab3\obj\Debug\classlab3.csprojAssemblyReference.cache
+C:\Users\Человек\Desktop\project\classlab3\classlab3\obj\Debug\classlab3.exe
+C:\Users\Человек\Desktop\project\classlab3\classlab3\obj\Debug\classlab3.pdb
